@@ -1,0 +1,3 @@
+[submodule "native_subproj"]
+	path = native_subproj
+	url = https://github.com/Longri/cachebox3.0_native.git
